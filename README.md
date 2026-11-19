@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Askhat 👋
 
-<!--
-**Askhat-Baialiev/Askhat-Baialiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science & Artificial Intelligence student at **Sapienza University of Rome** (BSc, 2027).
+From Osh, Kyrgyzstan — based in Rome. I like building things that are honest about their limits:
+AI that cites its sources, tools that say "I don't know" instead of guessing.
 
-Here are some ideas to get you started:
+**What I build**
+- 🤖 **[CatchUp](https://github.com/Askhat-Baialiev/catchup)** — an AI tutor agent that teaches a missed course from the lecturer's own slides. Guardrails enforced in code, not just prompts. *(Reply Student Tech Clash 2026)*
+- 🩸 **[MedLens](https://github.com/Askhat-Baialiev/medlens)** — photograph a lab report in any language, understand it in yours. Deterministic parsing + an LLM on AMD GPUs. *(AMD Developer Hackathon)*
+- 📱 **[Momentum](https://github.com/Askhat-Baialiev/momentum)** — native iOS app that helps students start the tasks they avoid. Built research-first through the full HCI cycle.
+- 💬 **WASAtext** — API-first messenger: Go backend, Vue.js frontend, OpenAPI, Docker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools:** Python · Go · Swift/SwiftUI · JavaScript/Vue · R · Docker
+
+📫 [LinkedIn](https://linkedin.com/in/askhat-baialiev-619759336)
